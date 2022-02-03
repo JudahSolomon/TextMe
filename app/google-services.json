@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "360484877006",
+    "project_id": "textme-ee5bc",
+    "storage_bucket": "textme-ee5bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360484877006:android:6d0125955529958f48969f",
+        "android_client_info": {
+          "package_name": "com.chatapp.textme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360484877006-7ft4mmdtputh0tu0oin7gas9vk1p2884.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chatapp.textme",
+            "certificate_hash": "1a902e444b4eaed6409a06e5873292ca5b6a74ec"
+          }
+        },
+        {
+          "client_id": "360484877006-3ugvri8caq4b8va1q2c1nlohfr26cfkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7I1TymZqxz11XkyT-DK8fPb19IFQ79RY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360484877006-3ugvri8caq4b8va1q2c1nlohfr26cfkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
